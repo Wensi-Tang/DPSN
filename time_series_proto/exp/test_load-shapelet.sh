@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python ./test_load_model_shapelet.py
